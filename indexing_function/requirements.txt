@@ -1,0 +1,4 @@
+google-cloud-firestore
+faiss-cpu
+google-cloud-storage
+sentence-transformers
